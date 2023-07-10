@@ -1,0 +1,6 @@
+let x = 10;
+x++
+console.log(x)
+
+//++x primeiro ele soma e depois ele retorna
+//x++ primeiro ele retorna e depois ele soma
